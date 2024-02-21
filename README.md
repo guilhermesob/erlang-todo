@@ -18,6 +18,7 @@ Para usar o programa, siga estas etapas:
 
 <!--git clone <URL_DO_SEU_REPOSITÓRIO-->
 git clone https://github.com/guilhermesob/erlang-todo
+
 3. Navegue até o diretório do projeto:
 
 cd nome-do-diretório
