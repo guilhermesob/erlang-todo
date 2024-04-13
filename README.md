@@ -51,7 +51,13 @@ git push origin minha-funcionalidade
 
 ## Versões
 
-- **v0.1:** Funcionalidades básicas implementadas.
+- **v0.1:** Funcionalidades básicas implementadas. Adicionar, editar e excluir tarefas.
+- **v0.2:** v0.0.2
+Funcionalidades Básicas Implementadas:
+
+Persistência de Dados: As tarefas agora são salvas em um arquivo, garantindo que elas não sejam perdidas ao fechar o aplicativo.
+Edição de Tarefas: Adicionada a opção de editar tarefas existentes para facilitar atualizações e correções.
+Melhorias na Interface do Usuário: Mensagens de confirmação após adicionar, remover ou editar uma tarefa para uma melhor experiência do usuário.
 
 ## Licença
 
